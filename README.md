@@ -38,6 +38,3 @@ affective-lab/
 ```
 
 🧮 Mathematical Framework (PAD Model)We ground our affective simulations in Mehrabian's PAD Emotional Model:Pleasure ($P$): Valence (Negative/Pain vs. Positive/Joy)Arousal ($A$): Energy level (Calm vs. Excited/Agitated)Dominance ($D$): Control/Confidence (Submissive vs. In Control)States evolve dynamically across interaction turns using exponential decay toward a resting baseline personality vector $(P_0, A_0, D_0)$ over elapsed time.
-
-🚀 Getting StartedClone the repository and explore the experimental notebooks:Bashgit clone [https://github.com/YourOrg/affective-lab.git](https://github.com/YourOrg/affective-lab.git)
-cd affective-lab
