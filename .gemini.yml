@@ -1,0 +1,9 @@
+# .gemini.yml
+version: "1"
+reviews:
+  auto_review: true # Automatically review new PRs
+  summary: true     # Generate a PR change summary
+  style_guide: |
+    - Enforce clean, readable code with docstrings.
+    - Check for edge cases, performance bottlenecks, and security hazards.
+    - Prefer standard library or lightweight dependencies over heavy imports.
