@@ -1,0 +1,10 @@
+| Column Name | Data Type | Description |
+| :--- | :--- | :--- |
+| `turn_id` | `int` | Sequential turn index in conversation |
+| `timestamp` | `float` | Relative elapsed time in seconds ($t$) |
+| `speaker` | `string` | `user` or `assistant` |
+| `text` | `string` | Dialogue utterance |
+| `pleasure` | `float` | Valence/Pleasure score $[-1.0, 1.0]$ |
+| `arousal` | `float` | Energy/Arousal score $[-1.0, 1.0]$ |
+| `dominance` | `float` | Control/Dominance score $[-1.0, 1.0]$ |
+| `delta_vector` | `list[float]` | Impulse vector change $[\Delta P, \Delta A, \Delta D]$ |
