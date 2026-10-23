@@ -37,4 +37,6 @@ affective-lab/
 └── RESEARCH_LOG.md    # Active lab notebook tracking daily hypotheses and findings
 ```
 
-🧮 Mathematical Framework (PAD Model)We ground our affective simulations in Mehrabian's PAD Emotional Model:Pleasure ($P$): Valence (Negative/Pain vs. Positive/Joy)Arousal ($A$): Energy level (Calm vs. Excited/Agitated)Dominance ($D$): Control/Confidence (Submissive vs. In Control)States evolve dynamically across interaction turns using exponential decay toward a resting baseline personality vector $(P_0, A_0, D_0)$ over elapsed time.
+##🧮 Mathematical Framework (PAD Model)
+
+We ground our affective simulations in Mehrabian's PAD Emotional Model:Pleasure ($P$): Valence (Negative/Pain vs. Positive/Joy)Arousal ($A$): Energy level (Calm vs. Excited/Agitated)Dominance ($D$): Control/Confidence (Submissive vs. In Control)States evolve dynamically across interaction turns using exponential decay toward a resting baseline personality vector $(P_0, A_0, D_0)$ over elapsed time.
