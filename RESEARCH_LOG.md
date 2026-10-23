@@ -1,4 +1,4 @@
-# Affective-Lab: Research Log
+# EmoDynamic-core : Research Log
 
 This log tracks ongoing hypotheses, architectural decisions, mathematical formalizations, and community feedback for persistent affective state modeling in LLM inference loops.
 
